@@ -1,73 +1,60 @@
-# Welcome to your Lovable project
+![image](https://github.com/user-attachments/assets/69a42dbe-ddbc-4f39-9864-0e46d164d4c8)
 
-## Project info
 
-**URL**: https://lovable.dev/projects/39f31d91-ddc4-4c8e-86be-0f370c9a17c4
 
-## How can I edit this code?
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn/ui-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="shadcn-ui" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Lovable.dev-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDUwIDI1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAwQzQuMiAwIDAgNC4yIDAgMTIuNXM0LjIgMTIuNSAxMiAxMi41czEyLTQuMiAxMi0xMi41U0x3LjggMCAxMiAwWm0xMiA0YzIuMiAwIDQuMyAxLjcgNC4zIDQuNCAwIDIuNi0yLjEgNC4zLTQuMyA0LjMtMi4zIDAtNC4zLTEuNy00LjMtNC4zIDAtMi43IDIuMS00LjQgNC4zLTQuNFoiLz48L3N2Zz4=&logoColor=white" alt="Lovable" />
+</p>
 
-There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/39f31d91-ddc4-4c8e-86be-0f370c9a17c4) and start prompting.
 
-Changes made via Lovable will be committed automatically to this repo.
+This project is built using the latest modern web technologies to ensure performance, scalability, and smooth user experience.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🛠️ Core Technologies
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+| 💡 Technology      | 🔗 Link                                       | 🔧 Purpose                                      |
+|--------------------|-----------------------------------------------|------------------------------------------------|
+| ⚡ **Vite**         | [vitejs.dev](https://vitejs.dev/)             | Lightning-fast frontend build tool             |
+| 🧠 **TypeScript**   | [typescriptlang.org](https://www.typescriptlang.org/) | Strongly typed JavaScript                      |
+| ⚛ **React**        | [reactjs.org](https://reactjs.org/)           | UI library for building interactive interfaces |
+| 🎨 **Tailwind CSS**| [tailwindcss.com](https://tailwindcss.com/)   | Utility-first CSS framework                    |
+| 🧱 **shadcn/ui**    | [shadcn.dev](https://ui.shadcn.com/)          | Accessible & customizable component library    |
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🚀 Deployment & Editing Platform
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+| 🧠 Tool          | 🔗 Link                                   | 🧩 Purpose                                     |
+|------------------|-------------------------------------------|-----------------------------------------------|
+| 💜 **Lovable**    | [lovable.dev](https://lovable.dev/)       | AI-powered web editor, deployment & preview   |
+| 🐙 **GitHub**     | [github.com](https://github.com/)         | Source code hosting & version control         |
+| 🧑‍💻 **Codespaces** | [github.com/features/codespaces](https://github.com/features/codespaces) | Cloud-based dev environment                   |
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### ✅ Highlights
 
-**Edit a file directly in GitHub**
+- 🧩 Component-based development using `React + shadcn/ui`
+- ⚡ Fast reload & bundling with `Vite`
+- 🧠 Type safety with `TypeScript`
+- 🎨 Clean & responsive styling using `Tailwind CSS`
+- 🌍 Deployed seamlessly via `Lovable.dev`
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+### 🔗 Live Project:
+**🌐 [View the Project on Lovable](https://lovable.dev/projects/39f31d91-ddc4-4c8e-86be-0f370c9a17c4)**
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+---
 
-## What technologies are used for this project?
+> ✨ Tip: You can customize and extend this stack easily with tools like Zustand, React Query, Framer Motion, or Prisma depending on your feature needs.
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/39f31d91-ddc4-4c8e-86be-0f370c9a17c4) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)

@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Lovable.dev-8B5CF6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDUwIDI1IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xMiAwQzQuMiAwIDAgNC4yIDAgMTIuNXM0LjIgMTIuNSAxMiAxMi41czEyLTQuMiAxMi0xMi41U0x3LjggMCAxMiAwWm0xMiA0YzIuMiAwIDQuMyAxLjcgNC4zIDQuNCAwIDIuNi0yLjEgNC4zLTQuMyA0LjMtMi4zIDAtNC4zLTEuNy00LjMtNC4zIDAtMi43IDIuMS00LjQgNC4zLTQuNFoiLz48L3N2Zz4=&logoColor=white" alt="Lovable" />
 </p>
 
 

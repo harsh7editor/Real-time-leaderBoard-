@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/69a42dbe-ddbc-4f39-9864-0e46d164d4c8)
 
+<img width="2130" height="2000" alt="Iphone 16 pro realtime leaderboard (1)" src="https://github.com/user-attachments/assets/e20f5144-aa12-4b50-896c-d52fc663fb94" />
 
 
 <p align="center">
